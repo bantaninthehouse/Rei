@@ -1,2 +1,2 @@
 # Rei
-Hmm
+My Discord bot.
