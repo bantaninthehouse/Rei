@@ -11,7 +11,7 @@ const client = new Client({
     ]
 });
 
-const TOKEN = 'YOUR_BOT_TOKEN_HERE';
+const TOKEN = 'MTU1NDY4MjY0NDYzNjIzNzk2NA.GfGcqX.VlLkmYaCJtfrP8oOKwQvnDWL0GtUvcSei4YZhs';
 
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}`);
